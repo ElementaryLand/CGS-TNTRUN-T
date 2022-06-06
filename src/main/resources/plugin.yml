@@ -1,0 +1,8 @@
+name: CGS-TNTRUN
+version: '${project.version}'
+main: fr.redcraft.tnt.Main
+api-version: 1.16
+authors: [ Redcraft ]
+description: Tarn
+commands:
+  tntrun:
